@@ -1,0 +1,34 @@
+*{
+    font-family: "Permanent Marker";
+}
+
+body{
+  background-color: #317d3a;
+}
+
+.gameName{
+  font-size: 4em;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.player1{
+  margin: auto;
+  font-size: 2em;
+}
+
+.computer{
+  margin: auto;
+  font-size: 2em;
+}
+
+.button{
+  margin: 0 auto;
+  text-align: center;
+  margin: 220px;
+}
