@@ -6,8 +6,14 @@ body{
   background-color: #317d3a;
 }
 
+button{
+  height: 100px;
+  width: 200px;
+  background-color: #fc2003;
+  font-size: 1.5em;
+}
 .gameName{
-  font-size: 4em;
+  font-size: 3em;
   margin: 0 auto;
   text-align: center;
 }
@@ -30,5 +36,6 @@ body{
 .button{
   margin: 0 auto;
   text-align: center;
-  margin: 220px;
+  margin: 50px;
+
 }
